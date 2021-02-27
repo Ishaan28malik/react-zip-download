@@ -1,7 +1,9 @@
 # react-zip-download
 A project to implement multi file zip downloader using Reactjs
 
+<div style="text-align:center">
 <img src="https://img.icons8.com/officel/2x/folder-invoices.png"  width="35%"/>
+</div>
 
 ## About running the React App
 
