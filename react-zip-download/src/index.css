@@ -1,0 +1,34 @@
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    border: 3px solid;
+    height: 250px;
+    width: 100%;
+    width: 355px;
+    align-items: center;
+    align-content: center
+  }
+  .mainDivContainer{
+    padding: 150px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center
+  }
+  .mainDiv{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+    width: 365px;
+    align-items: center;
+    justify-content: center
+  }
+
+.downloadButton{
+    height: 30px;
+    border-radius: 30px;
+    background-color: white;
+    cursor: pointer
+}
