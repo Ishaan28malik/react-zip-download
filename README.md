@@ -5,6 +5,11 @@ A project to implement multi file zip downloader using Reactjs
 <img src="https://img.icons8.com/officel/2x/folder-invoices.png"  width="35%"/>
 </div>
 
+### This projecct uses and has been inspired from following projects
+* [FileSaver](https://github.com/eligrey/FileSaver.js)
+* [JSZip](https://github.com/Stuk/jszip)
+* [JSZipUtils](https://github.com/Stuk/jszip-utils)
+
 ## About running the React App
 
 # Getting Started with Create React App
